@@ -6,3 +6,7 @@
 [Markov Chain Monte Carlo Methods](https://towardsdatascience.com/a-zero-math-introduction-to-markov-chain-monte-carlo-methods-dcba889e0c50)
 
 [Understanding GANs](https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29)
+
+#### Some Cool Tutorials
+
+[ML Crash Course](https://developers.google.com/machine-learning/crash-course)
