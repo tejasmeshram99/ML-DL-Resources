@@ -7,6 +7,18 @@
 
 [Understanding GANs](https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29)
 
-#### Some Cool Tutorials
+#### Some Tutorials
 
 [ML Crash Course](https://developers.google.com/machine-learning/crash-course)
+
+#### Github Repositories
+
+[Repo 1](https://github.com/josephmisiti/awesome-machine-learning)
+
+[Repo 2](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
+
+[Repo 3](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+
+[Repo 4](https://kiranvodrahalli.github.io/links/)
+
+[Repo 5](https://github.com/ChristosChristofidis/awesome-deep-learning)
