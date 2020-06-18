@@ -11,6 +11,8 @@
 
 [Understanding GANs](https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29)
 
+[GAN — GAN Series (from the beginning to the end)](https://medium.com/@jonathan_hui/gan-gan-series-2d279f906e7b)
+
 #### Some Tutorials
 
 [ML Crash Course](https://developers.google.com/machine-learning/crash-course)
