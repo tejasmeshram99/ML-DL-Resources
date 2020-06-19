@@ -15,6 +15,8 @@
 
 [GAN — GAN Series (from the beginning to the end)](https://medium.com/@jonathan_hui/gan-gan-series-2d279f906e7b)
 
+[Generative Models - Pytorch](https://github.com/wiseodd/generative-models)
+
 #### Some Tutorials
 
 [ML Crash Course](https://developers.google.com/machine-learning/crash-course)
