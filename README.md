@@ -9,6 +9,8 @@
 
 [Cross Entropy, KL Divergence](https://towardsdatascience.com/understanding-binary-cross-entropy-log-loss-a-visual-explanation-a3ac6025181a)
 
+[An Intro to different types of Convolutions](https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d)
+
 [Understanding GANs](https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29)
 
 [GAN — GAN Series (from the beginning to the end)](https://medium.com/@jonathan_hui/gan-gan-series-2d279f906e7b)
