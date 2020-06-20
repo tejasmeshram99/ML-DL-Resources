@@ -1,5 +1,5 @@
 # ML-DL-Resources
-### This repository contains some interesting Machine Learning,Deep Learning resources.
+## This repository contains some interesting Machine Learning,Deep Learning resources.
 
 [Intro to Markov Chains](https://towardsdatascience.com/introduction-to-markov-chains-50da3645a50d)
 
@@ -11,17 +11,19 @@
 
 [An Intro to different types of Convolutions](https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d)
 
+### Generative Adversarial Networks
+
 [Understanding GANs](https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29)
 
 [GAN — GAN Series (from the beginning to the end)](https://medium.com/@jonathan_hui/gan-gan-series-2d279f906e7b)
 
 [Generative Models - Pytorch](https://github.com/wiseodd/generative-models)
 
-#### Some Tutorials
+### Some Tutorials
 
 [ML Crash Course](https://developers.google.com/machine-learning/crash-course)
 
-#### Github Repositories
+### Github Repositories
 
 [Repo 1](https://github.com/josephmisiti/awesome-machine-learning)
 
