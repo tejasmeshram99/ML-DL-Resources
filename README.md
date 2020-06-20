@@ -9,11 +9,15 @@
 
 [Cross Entropy, KL Divergence](https://towardsdatascience.com/understanding-binary-cross-entropy-log-loss-a-visual-explanation-a3ac6025181a)
 
+[Demystifying KL Divergence](https://medium.com/activating-robotic-minds/demystifying-kl-divergence-7ebe4317ee68)
+
 [An Intro to different types of Convolutions](https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d)
 
 [Autoencoders - Medium](https://towardsdatascience.com/applied-deep-learning-part-3-autoencoders-1c083af4d798)
 
 [Intro to Autoencoders](https://www.jeremyjordan.me/autoencoders/)
+
+[Intuitive understanding of VAEs](https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf)
 
 ### Generative Adversarial Networks
 
