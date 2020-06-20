@@ -11,6 +11,10 @@
 
 [An Intro to different types of Convolutions](https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d)
 
+[Autoencoders - Medium](https://towardsdatascience.com/applied-deep-learning-part-3-autoencoders-1c083af4d798)
+
+[Intro to Autoencoders](https://www.jeremyjordan.me/autoencoders/)
+
 ### Generative Adversarial Networks
 
 [Understanding GANs](https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29)
