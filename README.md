@@ -19,6 +19,8 @@
 
 [Intuitive understanding of VAEs](https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf)
 
+[VAEs - Jeremy Jordan blog](https://www.jeremyjordan.me/variational-autoencoders/)
+
 ### Generative Adversarial Networks
 
 [Understanding GANs](https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29)
