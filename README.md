@@ -29,6 +29,8 @@
 
 [Generative Models - Pytorch](https://github.com/wiseodd/generative-models)
 
+[GANs - Pytorch](https://github.com/eriklindernoren/PyTorch-GAN)
+
 ### Some Tutorials
 
 [ML Crash Course](https://developers.google.com/machine-learning/crash-course)
