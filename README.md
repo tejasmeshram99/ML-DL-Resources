@@ -31,6 +31,8 @@
 
 [GANs - Pytorch](https://github.com/eriklindernoren/PyTorch-GAN)
 
+[GAN - Applications](https://github.com/nashory/gans-awesome-applications)
+
 ### Some Tutorials
 
 [ML Crash Course](https://developers.google.com/machine-learning/crash-course)
