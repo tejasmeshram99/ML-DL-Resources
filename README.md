@@ -48,3 +48,7 @@
 [Repo 4](https://kiranvodrahalli.github.io/links/)
 
 [Repo 5](https://github.com/ChristosChristofidis/awesome-deep-learning)
+
+### Helpful
+
+[Preventing Google Colab from disconnecting](https://medium.com/@shivamrawat_756/how-to-prevent-google-colab-from-disconnecting-717b88a128c0)
