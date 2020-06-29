@@ -54,3 +54,5 @@
 [Preventing Google Colab from disconnecting](https://medium.com/@shivamrawat_756/how-to-prevent-google-colab-from-disconnecting-717b88a128c0)
 
 [Downloading files or folders from Colab](https://stackoverflow.com/questions/50453428/how-do-i-download-multiple-files-or-an-entire-folder-from-google-colab)
+
+[Handling System Exit 2 error](https://stackoverflow.com/questions/42249982/systemexit-2-error-when-calling-parse-args/42250234)
