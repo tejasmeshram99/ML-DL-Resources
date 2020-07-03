@@ -56,3 +56,5 @@
 [Downloading files or folders from Colab](https://stackoverflow.com/questions/50453428/how-do-i-download-multiple-files-or-an-entire-folder-from-google-colab)
 
 [Handling System Exit 2 error](https://stackoverflow.com/questions/42249982/systemexit-2-error-when-calling-parse-args/42250234)
+
+[Initializing Weights in Pytorch](https://stackoverflow.com/questions/49433936/how-to-initialize-weights-in-pytorch)
