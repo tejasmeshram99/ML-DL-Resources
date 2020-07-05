@@ -21,6 +21,8 @@
 
 [VAEs - Jeremy Jordan blog](https://www.jeremyjordan.me/variational-autoencoders/)
 
+[DL model zoo](https://modelzoo.co/)
+
 ### Generative Adversarial Networks
 
 [Understanding GANs](https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29)
