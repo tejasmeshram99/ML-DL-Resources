@@ -31,6 +31,10 @@
 
 [GAN — GAN Series (from the beginning to the end)](https://medium.com/@jonathan_hui/gan-gan-series-2d279f906e7b)
 
+[InfoGAN tut1](https://towardsdatascience.com/infogan-generative-adversarial-networks-part-iii-380c0c6712cd)
+
+[InfoGAN tut2](https://machinelearningmastery.com/how-to-develop-an-information-maximizing-generative-adversarial-network-infogan-in-keras/)
+
 [Generative Models - Pytorch](https://github.com/wiseodd/generative-models)
 
 [GANs - Pytorch](https://github.com/eriklindernoren/PyTorch-GAN)
