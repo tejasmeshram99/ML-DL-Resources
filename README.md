@@ -7,6 +7,8 @@
 
 [Max Likelihood Estimation](https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1)
 
+[Demystifying Cross-Entropy](https://medium.com/activating-robotic-minds/demystifying-cross-entropy-e80e3ad54a8)
+
 [Cross Entropy, KL Divergence](https://towardsdatascience.com/understanding-binary-cross-entropy-log-loss-a-visual-explanation-a3ac6025181a)
 
 [Demystifying KL Divergence](https://medium.com/activating-robotic-minds/demystifying-kl-divergence-7ebe4317ee68)
