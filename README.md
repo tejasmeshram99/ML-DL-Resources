@@ -45,6 +45,8 @@
 
 [ML Crash Course](https://developers.google.com/machine-learning/crash-course)
 
+[Intro to Neural Networks and ML - Toronto](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/)
+
 ### Github Repositories
 
 [Repo 1](https://github.com/josephmisiti/awesome-machine-learning)
