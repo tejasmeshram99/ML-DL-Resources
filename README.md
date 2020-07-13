@@ -35,6 +35,8 @@
 
 [InfoGAN tut2](https://machinelearningmastery.com/how-to-develop-an-information-maximizing-generative-adversarial-network-infogan-in-keras/)
 
+[CycleGAN tutorial](https://machinelearningmastery.com/what-is-cyclegan/#:~:text=The%20CycleGAN%20is%20a%20technique,be%20related%20in%20any%20way.)
+
 [Generative Models - Pytorch](https://github.com/wiseodd/generative-models)
 
 [GANs - Pytorch](https://github.com/eriklindernoren/PyTorch-GAN)
