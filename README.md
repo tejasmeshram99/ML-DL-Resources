@@ -23,6 +23,8 @@
 
 [VAEs - Jeremy Jordan blog](https://www.jeremyjordan.me/variational-autoencoders/)
 
+[Adversarial Autoencoders](https://blog.paperspace.com/adversarial-autoencoders-with-pytorch/)
+
 [DL model zoo](https://modelzoo.co/)
 
 ### Generative Adversarial Networks
