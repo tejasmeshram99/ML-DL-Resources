@@ -15,6 +15,8 @@
 
 [An Intro to different types of Convolutions](https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d)
 
+### Probabilistic Models and Autoencoders
+
 [Autoencoders - Medium](https://towardsdatascience.com/applied-deep-learning-part-3-autoencoders-1c083af4d798)
 
 [Intro to Autoencoders](https://www.jeremyjordan.me/autoencoders/)
@@ -24,8 +26,6 @@
 [VAEs - Jeremy Jordan blog](https://www.jeremyjordan.me/variational-autoencoders/)
 
 [Adversarial Autoencoders](https://blog.paperspace.com/adversarial-autoencoders-with-pytorch/)
-
-[DL model zoo](https://modelzoo.co/)
 
 ### Generative Adversarial Networks
 
@@ -62,6 +62,8 @@
 [Repo 4](https://kiranvodrahalli.github.io/links/)
 
 [Repo 5](https://github.com/ChristosChristofidis/awesome-deep-learning)
+
+[DL model zoo](https://modelzoo.co/)
 
 ### Helpful
 
