@@ -27,6 +27,8 @@
 
 [Adversarial Autoencoders](https://blog.paperspace.com/adversarial-autoencoders-with-pytorch/)
 
+[ML cheatsheet architectures](https://ml-cheatsheet.readthedocs.io/en/latest/architectures.html)
+
 [VAE related Notebook](https://nbviewer.jupyter.org/url/www.cs.toronto.edu/~rgrosse/courses/csc421_2019/tutorials/tut8/tut8.ipynb#)
 
 ### Generative Adversarial Networks
