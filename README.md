@@ -49,6 +49,14 @@
 
 [GAN - Applications](https://github.com/nashory/gans-awesome-applications)
 
+### Sequence Models
+
+[Intro to RNNs](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
+
+[BPTT in RNNs](http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/)
+
+[Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
 ### Some Tutorials
 
 [ML Crash Course](https://developers.google.com/machine-learning/crash-course)
