@@ -86,3 +86,5 @@
 [Handling System Exit 2 error](https://stackoverflow.com/questions/42249982/systemexit-2-error-when-calling-parse-args/42250234)
 
 [Initializing Weights in Pytorch](https://stackoverflow.com/questions/49433936/how-to-initialize-weights-in-pytorch)
+
+[args and kwargs in function arguments](https://stackoverflow.com/questions/36901/what-does-double-star-asterisk-and-star-asterisk-do-for-parameters)
