@@ -63,6 +63,8 @@
 
 [Intro to Neural Networks and ML - Univ of Toronto](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/)
 
+[*The Incredible Pytorch](https://github.com/ritchieng/the-incredible-pytorch)
+
 ### Github Repositories
 
 [Repo 1](https://github.com/josephmisiti/awesome-machine-learning)
